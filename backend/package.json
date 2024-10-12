@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "dev": "nodemon --trace-warnings ./src/server.js",
     "start": "node ./src/server.js",
